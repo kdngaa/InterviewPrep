@@ -7,7 +7,7 @@
 //big o ignores constant (exp: 5n --> O(n) n input doesnt matter when becomes large)
 // O(1) is constant time
 // linear time
-
+//quadratic time
 
 
 //// 2 Sum EASY
