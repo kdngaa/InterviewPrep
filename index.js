@@ -6,6 +6,7 @@
 // complexity in terms of input size N; can be used to analyze time and space
 //big o ignores constant (exp: 5n --> O(n) n input doesnt matter when becomes large)
 // O(1) is constant time
+// linear time
 
 
 
