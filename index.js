@@ -25,4 +25,5 @@
 //sort the array in ascending order
 //iterate once, have left pointer at 1 index, and right pointer at last index
 //Current Sum = Curr Number + Left Pointer + Right Pointer
-//Only move one pointer at a time since you want to test ALL possitibillities
+//Only move one pointer at a time (until the window is closed) since you want to test ALL possitibillities
+//If the two pointers crosses each other, window is closed and iteration is done
