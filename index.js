@@ -24,4 +24,4 @@
 //use left and right pointers
 //sort the array in ascending order
 //iterate once, have left pointer at 1 index, and right pointer at last index
-
+//Current Sum = Curr Number + Left Pointer + Right Pointer
