@@ -28,7 +28,8 @@
 //Only move one pointer at a time (until the window is closed) since you want to test ALL possitibillities
 //If the two pointers crosses each other, window is closed and iteration is done
 //Because it is in ascending order, if the sum of the pointers are greater than the TARGET, then you move the right pointer to DECREASE the amount, vice versa, if it's less than target, then move left pointer until they area match
-//Sliding window is one of the best strats for Array Manipulation. Time Complexity is O(n^2) because of for loop for the main array, and for each of those number as a curr number, a while loop is activated whenever we reset the current number
+//Two pointers is one of the best strats for Array Manipulation. Time Complexity is O(n^2) because of for loop for the main array, and for each of those number as a curr number, a while loop is activated whenever we reset the current number
 //O(N) space
 //sorting method in the beginning wont mess with the overall runtime of the algo because On(log n) is less than O(N^2)
 //has to be array.length - 2 because you want the first num to be the 3rd number from the end of the array, since we are looking for triples, we need the two other numbers (left n right pointers) after the curr number
+//while left < right (before the cross eachother and the window (iteration) is closed)
