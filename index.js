@@ -25,3 +25,4 @@
 //sort the array in ascending order
 //iterate once, have left pointer at 1 index, and right pointer at last index
 //Current Sum = Curr Number + Left Pointer + Right Pointer
+//Only move one pointer at a time since you want to test ALL possitibillities
