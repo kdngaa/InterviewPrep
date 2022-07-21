@@ -20,3 +20,5 @@
 
 
 ///3 Sum MEDIUM
+//Array manipulation, hash map and 3 for loops may work but will increase complexity and not optimal
+//use left and right pointers
