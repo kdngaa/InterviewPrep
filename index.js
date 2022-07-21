@@ -27,3 +27,4 @@
 //Current Sum = Curr Number + Left Pointer + Right Pointer
 //Only move one pointer at a time (until the window is closed) since you want to test ALL possitibillities
 //If the two pointers crosses each other, window is closed and iteration is done
+//Because it is in ascending order, if the sum of the pointers are greater than the TARGET, then you move the right pointer to DECREASE the amount, vice versa, if it's less than target, then move left pointer until they area match
