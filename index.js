@@ -9,6 +9,7 @@
 // linear time
 //quadratic time
 //(O1) is the most optimal
+//FOCUSING ON THE WHY IN YOUR PROJECTS
 
 
 
