@@ -19,6 +19,8 @@
 //REVIEW HASHMAPS AND HASH TABLES, SLIDING WINDOWS AND TWO POINTERS
 
 
+
+
 ///3 Sum MEDIUM
 //Array manipulation, hash map and 3 for loops may work but will increase complexity and not optimal
 //use left and right pointers
@@ -33,3 +35,8 @@
 //sorting method in the beginning wont mess with the overall runtime of the algo because On(log n) is less than O(N^2)
 //has to be array.length - 2 because you want the first num to be the 3rd number from the end of the array, since we are looking for triples, we need the two other numbers (left n right pointers) after the curr number
 //while left < right (before the cross eachother and the window (iteration) is closed)
+
+
+
+//SMALLEST DIFFERENCE: MEDIUM
+//Ask interviewer if you can SORT the arrays IN PLACE, if not, you'd have to allocate more memories by creating copies of the arrays and sort in from there
