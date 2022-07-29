@@ -10,7 +10,7 @@
 //quadratic time
 //(O1) is the most optimal
 //FOCUSING ON THE WHY IN YOUR PROJECTS
-
+//FOCUS ON ASSOCIATE OR INTERNSHIPS
 
 
 //// 2 Sum EASY
