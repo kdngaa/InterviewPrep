@@ -20,7 +20,7 @@
 //FRONTEND KNOWLEDGE:
 //CLIENT (frontend) VS SERVER (backend), sometimes it's better to code on backend because the client side has a lower computing power
 //sometimes it's better to code on the client side because users can actually see the code as it's not protected by passwords and that it's faster since it doesn't need to wait for requests
-
+//client has to database access but server (backend) does
 
 
 
