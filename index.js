@@ -26,8 +26,10 @@
 //RESTful APIs is resource-based and has 6 constraints
 //HTTP requests are used to define the relationship (submit, update, delete, read) between the data to the server
 //Web Security (Auth)
-//Same-Origin Policy: Restricts scripts from interacting with resources from other origins
-
+//Same-Origin Policy: Restricts scripts from interacting with resources from other origins (exp: http and https have different origins)
+//Network requests can be made with same origin policy but responses won't be readable
+//EXP: a banking website and a banking server (client and server) havea relationship, then the banking website is also somehow connected to a bad website
+//Cont. exp: the bad website can also make requests to the banking server (same origin policy can block the bad website to read the response it gives back since it's from a different origin)
 
 
 
