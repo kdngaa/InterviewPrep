@@ -15,7 +15,7 @@
 //401: unauthorized
 //RESTful APIs are resource based (it's an interface where each programs agree to communicate with one another)
 //RESTful APIs is resource-based and has 6 constraints
-
+//HTTP requests are used to define the relationship (submit, update, delete, read) between the data to the server
 
 
 
