@@ -39,6 +39,10 @@
 //^^^ Access Allow Control Origin indicates another origin that can request the server (usually with an asterik), Access Allow Control Credentials indicates if credentials (TLS client certificate) should be sent cross origin
 //Cont. CORS: preflight requests are test requests from the Client side to check what CORS header they get back
 //Cross Site Scripting Attack (XSS): Attacker inject Javascript onto UI (Persistent: commenting script on website,Non-Persistent: google searches that includes a script at the end, DOM-based: link with virus code)
+//OAUTH (Open Authorization): Give API access to other websites without passwords (EXP: you have a website and you want to create schedule or events based on YOUR personal Google calendar without giving them password acesss)
+//Cont. OAUTH: Google Calendar will ask the User trust the devices (popups that ask asking for access to personal info), if User says yes, Google calendar will send a Token to your website
+//Cont. OAUTH: Your website will then use the Token to make request speicifically for the action you allowed access to (create events)
+//Cont. OAUTH: Examples would be (Sign in AlgoExpert or Leetcode with your Github account), your Github would only be requested the access needed ONLY to sign in Algo or Leetcode, nothing else is allowed
 
 
 
