@@ -38,6 +38,11 @@
 //Cont. CORS: CORS headers (Access-Allow-Control-Origin or Crendentials) are sent back along with responses FROM the server
 //^^^ Access Allow Control Origin indicates another origin that can request the server (usually with an asterik), Access Allow Control Credentials indicates if credentials (TLS client certificate) should be sent cross origin
 //Cont. CORS: preflight requests are test requests from the Client side to check what CORS header they get back
+//Cross Site Scripting Attack (XSS): Attacker inject Javascript onto UI (Persistent: commenting script on website,Non-Persistent: google searches that includes a script at the end, DOM-based: link with virus code)
+
+
+
+
 
 
 
