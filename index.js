@@ -30,7 +30,7 @@
 //Network requests can be made with same origin policy but responses won't be readable
 //EXP: a banking website and a banking server (client and server) havea relationship, then the banking website is also somehow connected to a bad website
 //Cont. exp: the bad website can also make GET requests to the banking server (same origin policy can block the bad website to read the response it gives back since it's from a different origin)
-//Cont. exp: however, when the bad website make a POST requests (transfer wire to steal information), this is a CSRF attack (Cross Forge Origin Attack)
+//Cont. exp: however, when the bad website make a POST requests pretending to the other website (transfer wire to steal information), this is a CSRF attack (Cross Forge Origin Attack)
 
 
 
