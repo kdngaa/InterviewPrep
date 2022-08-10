@@ -30,7 +30,11 @@
 //Network requests can be made with same origin policy but responses won't be readable
 //EXP: a banking website and a banking server (client and server) havea relationship, then the banking website is also somehow connected to a bad website
 //Cont. exp: the bad website can also make GET requests to the banking server (same origin policy can block the bad website to read the response it gives back since it's from a different origin)
-//Cont. exp: however, when the bad website make a POST requests pretending to the other website (transfer wire to steal information), this is a CSRF attack (Cross Forge Origin Attack)
+//Cont. exp: however, when the bad website make a POST requests pretending to the other website, which also includes cookies that confuse the server and the bad actor site doesn't need a response (transfer wire to steal information), this is a CSRF attack (Cross Site Request Forgery Attack)
+//To prevent CSRF attacks, use Same Site Cookie Flag (doesn't include cookies cross origin)
+//CSRF Tokens: when Client (bank) side send a request to Server (bank server), the Server send back Csrf Token (random numbers and letters)
+//Cont. CSRF Tokens: now that the Csrf token is there, everytime a request is made from client, it'll carry the Csrf Token given to the server side, therefore the bad website (even with cookies) can't infiltrate the system due to Same Origin Policy
+//In case we need our website to interact and sharing resources cross-origin (exp: APIs), we use CORS
 
 
 
