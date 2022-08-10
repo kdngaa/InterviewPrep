@@ -13,6 +13,8 @@
 //FOCUS ON ASSOCIATE OR INTERNSHIPS
 //STATUS CODES: 400'S are Client Errors (frontend), 500's are Server Errors (backend)
 //401: unauthorized
+//RESTful APIs are resource based (it's an interface where each programs agree to communicate with one another)
+
 
 
 
