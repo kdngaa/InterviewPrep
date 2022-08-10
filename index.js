@@ -11,6 +11,8 @@
 //(O1) is the most optimal
 //FOCUSING ON THE WHY IN YOUR PROJECTS
 //FOCUS ON ASSOCIATE OR INTERNSHIPS
+//STATUS CODES: 400'S are Client Errors (frontend), 500's are Server Errors (backend)
+//401: unauthorized
 
 
 
