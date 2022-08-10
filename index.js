@@ -11,11 +11,6 @@
 //(O1) is the most optimal
 //FOCUSING ON THE WHY IN YOUR PROJECTS
 //FOCUS ON ASSOCIATE OR INTERNSHIPS
-//STATUS CODES: 400'S are Client Errors (frontend), 500's are Server Errors (backend)
-//401: unauthorized
-//RESTful APIs are resource based (it's an interface where each programs agree to communicate with one another)
-//RESTful APIs is resource-based and has 6 constraints
-//HTTP requests are used to define the relationship (submit, update, delete, read) between the data to the server
 
 
 
@@ -25,7 +20,12 @@
 //CLIENT (frontend) VS SERVER (backend), sometimes it's better to code on backend because the client side has a lower computing power
 //sometimes it's better to code on the client side because users can actually see the code as it's not protected by passwords and that it's faster since it doesn't need to wait for requests
 //client has to database access but server (backend) does
-
+//STATUS CODES: 400'S are Client Errors (frontend), 500's are Server Errors (backend)
+//401: unauthorized
+//RESTful APIs are resource based (it's an interface where each programs agree to communicate with one another)
+//RESTful APIs is resource-based and has 6 constraints
+//HTTP requests are used to define the relationship (submit, update, delete, read) between the data to the server
+//Web Security (Auth)
 
 
 
