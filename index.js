@@ -34,9 +34,10 @@
 //To prevent CSRF attacks, use Same Site Cookie Flag (doesn't include cookies cross origin)
 //CSRF Tokens: when Client (bank) side send a request to Server (bank server), the Server send back Csrf Token (random numbers and letters)
 //Cont. CSRF Tokens: now that the Csrf token is there, everytime a request is made from client, it'll carry the Csrf Token given to the server side, therefore the bad website (even with cookies) can't infiltrate the system due to Same Origin Policy
-//In case we need our website to interact and sharing resources cross-origin (exp: APIs), we use CORS
-
-
+//In case we need our website to interact and sharing resources cross-origin (exp: APIs), we use CORS (Cross Origin Resource Sharing)
+//Cont. CORS: CORS headers (Access-Allow-Control-Origin or Crendentials) are sent back along with responses FROM the server
+//^^^ Access Allow Control Origin indicates another origin that can request the server (usually with an asterik), Access Allow Control Credentials indicates if credentials (TLS client certificate) should be sent cross origin
+//Cont. CORS: preflight requests are test requests from the Client side to check what CORS header they get back
 
 
 
