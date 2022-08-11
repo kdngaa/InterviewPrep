@@ -43,7 +43,7 @@
 //Cont. OAUTH: Google Calendar will ask the User trust the devices (popups that ask asking for access to personal info), if User says yes, Google calendar will send a Token to your website
 //Cont. OAUTH: Your website will then use the Token to make request speicifically for the action you allowed access to (create events)
 //Cont. OAUTH: Examples would be (Sign in AlgoExpert or Leetcode with your Github account), your Github would only be requested the access needed ONLY to sign in Algo or Leetcode, nothing else is allowed
-//JSON (Javascript Object Notation) WEB TOKEN: These are signed token, so it'll be notified if the Tokens are tempered with
+//JSON (Javascript Object Notation) WEB TOKEN: These are signed token, used to share security information between two parties — a client and a server
 //Cont. JSON WEB TOKEN: comes w/ header that has info about encryption algorithm used, payload data, and signature created by the server using a secret key
 
 
