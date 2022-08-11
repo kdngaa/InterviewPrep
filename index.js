@@ -45,7 +45,8 @@
 //Cont. OAUTH: Examples would be (Sign in AlgoExpert or Leetcode with your Github account), your Github would only be requested the access needed ONLY to sign in Algo or Leetcode, nothing else is allowed
 //JSON (Javascript Object Notation) WEB TOKEN: These are signed token, used to share security information between two parties — a client and a server
 //Cont. JSON WEB TOKEN: comes w/ header that has info about encryption algorithm used, payload data, and signature created by the server using a secret key
-
+//HOW DOES WEBSITES RENDER HTML AND CSS: HTML IS PARSED INTO DOM TREE, CSS IS PARSED INTO CSS OBJECT MODEL TREE, combine both to Render Tree (contain nodes of what elements are being rendered)
+//Cont. Browser Render: Calculate layout, width, height, location of nodes based on view port size, then PAINT the screen using Render Tree and Layout Calculations
 
 
 
