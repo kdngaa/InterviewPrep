@@ -50,6 +50,14 @@
 
 
 
+//REACT KNOWLEDGE
+//Hooks are what you return when using states (exp: useState(0))
+
+
+
+
+
+
 
 
 //// 2 Sum EASY
