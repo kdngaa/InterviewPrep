@@ -68,7 +68,7 @@
 //When your Browser first try to type an address for a site (ie Algo Expert), it makes a DNS query behind the scene to figure out an IP address (unique identifier for a specific machine) of the site to learn how to communicate with the server
 //Network Protocols: IP, TCP, HTTP
 //Modern Internet runs on IP (Internet Protocol) IP packet is the fundamental data units that are used to sent information to different machines, made up of bytes
-
+//JSON is a data format of the request bodies
 
 
 
