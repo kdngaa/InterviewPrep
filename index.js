@@ -71,7 +71,7 @@
 //JSON is a data format of the request bodies
 //TCP "handshake" used to create a connection between machines, built on top of IP
 //IP and TCP are low level but HTTP is much more relevant
-
+//DATABASE STORAGE: databases are used to STORE and RETRIEVE data
 
 
 
