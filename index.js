@@ -69,6 +69,7 @@
 //Network Protocols: IP, TCP, HTTP
 //Modern Internet runs on IP (Internet Protocol) IP packet is the fundamental data units that are used to sent information to different machines, made up of bytes
 //JSON is a data format of the request bodies
+//TCP "handshake" used to create a connection between machines, built on top of IP
 //IP and TCP are low level but HTTP is much more relevant
 
 
