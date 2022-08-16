@@ -65,6 +65,12 @@
 //SYSTEM DESIGN
 //There are no wrong or right answers, but it's your job to defend your stance on why you would do something over something else
 //System basics: Client Server model, Network Protocols (how they communicate with one another)
+//When your Browser first try to type an address for a site (ie Algo Expert), it makes a DNS query behind the scene to figure out an IP address of the site 
+
+
+
+
+
 
 
 
