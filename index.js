@@ -53,7 +53,7 @@
 //REACT KNOWLEDGE
 //Hooks are what you return when using states (exp: useState(0))
 //useState are used to interact with DOM (or component) RE RENDERS, cannot be called conditionally, this is why hooks orders matter
-
+//Reducer takes in an old state and an action 
 
 
 
