@@ -56,7 +56,7 @@
 //Reducer takes in an old state and an action
 //Dependency array determines when the useEffect will run
 //To avoid infinite loops in useEffect, try not to use something that constantly changes or updates
-
+//Redux holds the state of the entire application, reducer specifies how the state changes depends on which action is dispatched into the store
 
 
 
