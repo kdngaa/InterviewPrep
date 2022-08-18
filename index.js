@@ -59,7 +59,7 @@
 //Redux holds the state of the entire application, reducer specifies how the state changes depends on which action is dispatched into the store
 //React Router maintains consistent structure and behavior and is used to develop single-page web applications, can contain many routes
 //React Routing is faster than tradiational routing since it does not refresh since it's a single file, and the user navigates multiple views in the same file
-
+//Hooks let you use state and other React features without writing a class.
 
 
 
