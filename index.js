@@ -78,6 +78,19 @@
 
 
 
+//3 ways to copy an array
+//SLICE (shallow, only allows pure array)
+//let copyArray = og.slice(0)
+
+//SPREAD OPERATOR (shallow, only allows pure array)
+//let copyArray2 = [...og]
+
+//DEEP COPY (if theres an array or object within the array)
+
+
+
+
+
 //// 2 Sum EASY
 //BETTER WAY: HASH TABLES GIVES YOU MORE SPACE, makes it run faster and more efficiently (value time more than space)
 //MOST OPTIMAL: USING SORT IN THE BEGINNING and using WHILE LOOP (value space more than time)
