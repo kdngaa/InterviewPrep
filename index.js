@@ -111,6 +111,10 @@
 
 
 
-//SPIRAL TRAVERSE MEDIUM
+//SPIRAL TRAVERSE MEDIUM (to be cont.)
 //Must traverse through all parameters of the array
 //Then traverse the inner parameter
+
+
+//most frequent char
+//declare the best character as null because you want it to return a character, not a number
