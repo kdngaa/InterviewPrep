@@ -86,7 +86,7 @@
 //let copyArray2 = [...og]
 
 //DEEP COPY (if theres an array or object within the array)
-
+//let deepCoy = JSON.parse(JSON.stringify(deepOriginal))
 
 
 
