@@ -108,3 +108,9 @@
 //Ask interviewer if you can SORT the arrays IN PLACE, if not, you'd have to allocate more memories by creating copies of the arrays and sort in from there
 //TIME O(Nlog(n) + Mlog(n)) because we are sorting the area
 //SPACE O(1) is because we're sorting it in place
+
+
+
+//SPIRAL TRAVERSE MEDIUM
+//Must traverse through all parameters of the array
+
