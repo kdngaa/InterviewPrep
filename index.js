@@ -65,6 +65,7 @@
 
 //NODE JS USER AUTH SIMPLE
 //npm init -y to install dependencies like package.json
+//npm i express bcrypt to secure password hashes
 
 
 //SYSTEM DESIGN
