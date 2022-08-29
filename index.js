@@ -73,6 +73,7 @@
 //bcrypt is an async library so you can use try catch method
 //genSalt() and hash() to generate salt for password and then hash
 //use Postman to test request and response
+//use bcrypt.compare to compare the original password to the hashed password, this increases security by preventing timing attacks, both passwords have to be the same
 
 
 
