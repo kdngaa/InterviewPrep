@@ -66,6 +66,9 @@
 //NODE JS USER AUTH SIMPLE
 //npm init -y to install dependencies like package.json
 //npm i express bcrypt to secure password hashes
+//npm i --savedev nodemon is a dev dependency, used to restart our server automatically everytime we make a change
+//create server.js file to start up the server, creating routes 
+
 
 
 //SYSTEM DESIGN
