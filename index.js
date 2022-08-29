@@ -68,6 +68,7 @@
 //npm i express bcrypt to secure password hashes
 //npm i --savedev nodemon is a dev dependency, used to restart our server automatically everytime we make a change
 //create server.js file to start up the server, creating routes (ie: app.get), app.listen(3000)
+//get bcrypt library to hash passwords in server js file (create a salt and use the salt to hash the password)
 
 
 
