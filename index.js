@@ -72,7 +72,7 @@
 //salt is different for every single user
 //bcrypt is an async library so you can use try catch method
 //genSalt() and hash() to generate salt for password and then hash
-
+//use Postman to test request and response
 
 
 
