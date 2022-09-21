@@ -130,6 +130,12 @@
 //while left < right (before the cross eachother and the window (iteration) is closed)
 
 
+//JAVA
+//primitive type in Java (variables) are lowercased letters
+//Sytem.out.println() is basically console.log
+
+
+
 
 //SMALLEST DIFFERENCE: MEDIUM
 //Ask interviewer if you can SORT the arrays IN PLACE, if not, you'd have to allocate more memories by creating copies of the arrays and sort in from there
