@@ -134,7 +134,7 @@
 //primitive type in Java (variables) are lowercased letters
 //Sytem.out.println() is basically console.log
 //String is a commonly used primitive type, uses double quote instead of single
-
+//everything is done in the main method
 
 
 //SMALLEST DIFFERENCE: MEDIUM
