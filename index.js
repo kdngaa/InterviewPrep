@@ -137,6 +137,9 @@
 //everything is done in the main method
 //CONCAT in Java is a +, any method after the main method doesn't have "main" in its name
 //return is the same as JS
+//IF CONDITIONALS is the same structure
+//.equals() is to compare two strings in JAVA
+
 
 
 //SMALLEST DIFFERENCE: MEDIUM
