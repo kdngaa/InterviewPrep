@@ -140,6 +140,8 @@
 //IF CONDITIONALS is the same structure
 //.equals() is to compare two strings in JAVA
 //public classes can have attributes by using primitive types
+//the static keyword purpose is so that you can use that specific method you declared in one class elsewhere (exp: meow)
+
 
 
 //SMALLEST DIFFERENCE: MEDIUM
