@@ -134,8 +134,8 @@
 //primitive type in Java (variables) are lowercased letters
 //Sytem.out.println() is basically console.log
 //String is a commonly used primitive type, uses double quote instead of single
-//everything is done in the main method
-//CONCAT in Java is a +, any method after the main method doesn't have "main" in its name
+//everything is done in the main method,
+//CONCAT in Java is a +, any method after the main method doesn't have "main" in its name and call it private static
 //return is the same as JS
 //IF CONDITIONALS is the same structure
 //.equals() is to compare two strings in JAVA
