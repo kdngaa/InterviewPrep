@@ -98,7 +98,7 @@
 //PROS: You can work it for someone else projects without installing dependencies
 //Docker uses containers, containers arent virutal machines
 //container runs fast and uses less memories
-
+//Dockerfile contains a list of steps to perform to create that image,
 
 
 //JAVA
