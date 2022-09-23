@@ -91,6 +91,12 @@
 
 
 //DOCKER OVERVIEW
+//is a tool to run applications in a isolated environment
+//advantage in running your app in a virtual machine
+//PROS: Run consistently in same environment so it behaves the same
+//PROS: Let you sandbox projects if you work on diff projects, good for security
+//PROS: You can work it for someone else projects without installing dependencies
+//Docker uses containers, containers arent virutal machines
 
 
 
