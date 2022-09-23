@@ -90,6 +90,23 @@
 
 
 
+//DOCKER OVERVIEW
+
+
+
+
+//JAVA
+//primitive type in Java (variables) are lowercased letters
+//Sytem.out.println() is basically console.log
+//String is a commonly used primitive type, uses double quote instead of single
+//everything is done in the main method,
+//CONCAT in Java is a +, any method after the main method doesn't have "main" in its name and call it private static (if you don't want it to be called everywhere)
+//return is the same as JS
+//IF CONDITIONALS is the same structure
+//.equals() is to compare two strings in JAVA
+//public classes can have attributes by using primitive types
+//the static keyword purpose is so that you can use that specific method you declared in one class elsewhere (exp: meow)
+
 
 
 //3 ways to copy an array
@@ -130,17 +147,13 @@
 //while left < right (before the cross eachother and the window (iteration) is closed)
 
 
-//JAVA
-//primitive type in Java (variables) are lowercased letters
-//Sytem.out.println() is basically console.log
-//String is a commonly used primitive type, uses double quote instead of single
-//everything is done in the main method,
-//CONCAT in Java is a +, any method after the main method doesn't have "main" in its name and call it private static (if you don't want it to be called everywhere)
-//return is the same as JS
-//IF CONDITIONALS is the same structure
-//.equals() is to compare two strings in JAVA
-//public classes can have attributes by using primitive types
-//the static keyword purpose is so that you can use that specific method you declared in one class elsewhere (exp: meow)
+
+
+
+
+
+
+
 
 
 
