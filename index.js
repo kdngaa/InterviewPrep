@@ -97,7 +97,7 @@
 //PROS: Let you sandbox projects if you work on diff projects, good for security
 //PROS: You can work it for someone else projects without installing dependencies
 //Docker uses containers, containers arent virutal machines
-
+//container runs fast and uses less memories
 
 
 
