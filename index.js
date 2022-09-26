@@ -50,8 +50,10 @@
 
 
 
-//POLYMORPHISM AND INHERITANCE
-//
+//POLYMORPHISM AND INHERITANCE AND ENCAPSULATION
+//POLYMORPHISM: Poly means many, morph means form, ability to create a variable, function, or object that has more than one form
+//Polymorphism exp: class Alligator extends class Animal, the child eat() function that is called latter will take presidence over the first eat() function
+//INHERITANCE: Once you made a class, and you want a class to inherit a lot of properties and functions but modified with its own custom stuff, inheritance happens in something like a tree
 
 
 
