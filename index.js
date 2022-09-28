@@ -54,7 +54,8 @@
 //POLYMORPHISM: Poly means many, morph means form, ability to create a variable, function, or object that has more than one form
 //Polymorphism exp: class Alligator extends class Animal, the child eat() function that is called latter will take presidence over the first eat() function
 //INHERITANCE: Once you made a class, and you want a class to inherit a lot of properties and functions but modified with its own custom stuff, inheritance happens in something like a tree
-
+//Inheritance is one in which a new class is created that inherits the properties of the already exist class. It supports the concept of code reusability and reduces the length of the code in object-oriented programming.
+//Polymorphism is that in which we can perform a task in multiple forms or ways. It is applied to the functions or methods. Polymorphism allows the object to decide which form of the function to implement at compile-time as well as run-time.
 
 
 
