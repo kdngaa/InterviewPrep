@@ -166,7 +166,8 @@
 //while left < right (before the cross eachother and the window (iteration) is closed)
 
 
-
+//FRONTEND QUIZ
+//Fetch function returns a promise object
 
 
 
@@ -190,3 +191,8 @@
 
 //most frequent char
 //declare the best character as null because you want it to return a character, not a number
+
+
+
+
+//LINKEDLIST REVIEW
