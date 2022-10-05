@@ -197,3 +197,4 @@
 
 //LINKEDLIST REVIEW
 //linked list is an ordered data structure (head, tail, much like the train containers)
+//linkedlist positions are the same as array's indices
