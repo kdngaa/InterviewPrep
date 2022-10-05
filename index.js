@@ -198,3 +198,5 @@
 //LINKEDLIST REVIEW
 //linked list is an ordered data structure (head, tail, much like the train containers)
 //linkedlist positions are the same as array's indices
+//inserting an element into an array is harder than a linkedlist because it is O(n) time, since you have to shift around elements depending on the size
+//to insert an element into linkledlist, you just have to determine the next and previous pointer of a certain position
