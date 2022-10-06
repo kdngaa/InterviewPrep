@@ -200,3 +200,4 @@
 //linkedlist positions are the same as array's indices
 //inserting an element into an array is harder than a linkedlist because it is O(n) time, since you have to shift around elements depending on the size
 //to insert an element into linkledlist, you just have to determine the next and previous pointer of a certain position
+//the node's inner values can be numbers or letters or strings
