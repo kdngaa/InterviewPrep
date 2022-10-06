@@ -201,3 +201,5 @@
 //inserting an element into an array is harder than a linkedlist because it is O(n) time, since you have to shift around elements depending on the size
 //to insert an element into linkledlist, you just have to determine the next and previous pointer of a certain position
 //the node's inner values can be numbers or letters or strings
+//to traverse through a linkedlist, we must update the head as the current node everytime
+
