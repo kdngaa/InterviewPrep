@@ -202,3 +202,6 @@
 //to insert an element into linkledlist, you just have to determine the next and previous pointer of a certain position
 //the node's inner values can be numbers or letters or strings
 //to traverse through a linkedlist, we must update (re-assignment) the head as the current node everytime until current is equal to null
+
+
+//BINARY
