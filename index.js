@@ -206,5 +206,6 @@
 
 //BINARY
 //review class, constructor, and OOP
-//depth first traversal, going deeper in the tree before moving laterally
+//depth first traversal, going deeper in the tree before moving laterally (right to left)
 //stack: first in, last out (good for depth first traversal)
+//
