@@ -206,3 +206,4 @@
 
 //BINARY
 //review class, constructor, and OOP
+//depth first traversal, going deeper in the tree before moving laterally
