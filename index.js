@@ -209,3 +209,4 @@
 //depth first traversal, going deeper in the tree before moving laterally (right to left)
 //stack: first in, last out (good for depth first traversal)
 //breathd first traversal: going across before going deeper, still left to right
+//using queue for breath first: like a line of people, things enter in the back of the queue and exits in the front of the queue, no one can skip line
