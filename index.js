@@ -212,3 +212,4 @@
 //using queue for breath first: like a line of people, things enter in the back of the queue and exits in the front of the queue, no one can skip line
 //queue and stacks are used to travel through and check the tree, you don't often return it directly
 //searching from left to right is very important
+//iterative is better for breathed first traversal
