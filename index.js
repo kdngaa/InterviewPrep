@@ -223,3 +223,4 @@
 //json is used to transmit data between server and client
 //fetch function produces a promise so we can use async and await as well as .then
 //need to convert res to res.json to be able to access the object that carries the data/info when the fetch returns
+//in order to post, put, delete, you have to use the option section of the fetch method (after the url)
