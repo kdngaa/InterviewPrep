@@ -222,3 +222,4 @@
 //json objects have name and value pairs of any type (string, number, boolean, array, objects(unordered)), name however are often strings
 //json is used to transmit data between server and client
 //fetch function produces a promise so we can use async and await as well as .then
+//need to convert res to res.json to be able to access the object that carries the data/info when the fetch returns
