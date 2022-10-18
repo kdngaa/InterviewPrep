@@ -218,4 +218,4 @@
 
 
 //FRONTEND EXPERT
-//Array Prototypes review
+//Array Prototypes review (maps, filter, reduce, filter)
