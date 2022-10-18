@@ -221,3 +221,4 @@
 //Array Prototypes review (maps, filter, reduce, filter)
 //json objects have name and value pairs of any type (string, number, boolean, array, objects(unordered)), name however are often strings
 //json is used to transmit data between server and client
+//fetch function produces a promise so we can use async and await as well as .then
