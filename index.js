@@ -219,3 +219,4 @@
 
 //FRONTEND EXPERT
 //Array Prototypes review (maps, filter, reduce, filter)
+//json objects have name and value pairs of any type (string, number, boolean, array, objects(unordered)), name however are often strings
