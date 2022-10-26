@@ -224,3 +224,9 @@
 //fetch function produces a promise so we can use async and await as well as .then
 //need to convert res to res.json to be able to access the object that carries the data/info when the fetch returns
 //in order to post, put (specifgically) , you have to use the option section of the fetch method (after the url), which includes the headers (content type application json ) and body (**which has to be stringified from JSON**) and the method you intend to use
+
+
+
+//STOP WATCH WITH JS HTML CSS
+//review document.getElementById("")
+//review document.addEventListener("click")
