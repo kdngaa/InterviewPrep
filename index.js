@@ -229,4 +229,4 @@
 
 //STOP WATCH WITH JS HTML CSS
 //review document.getElementById("")
-//review document.addEventListener("click")
+//review document.addEventListener("click", *func*)
