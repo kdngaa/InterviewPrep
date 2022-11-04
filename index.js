@@ -236,3 +236,4 @@
 
 //TODO LIST
 //overview: user needs to be able to type in the input and add button is enabled, button is disabled if field is empty
+//utilize "change" addEventListener
