@@ -230,4 +230,9 @@
 //STOP WATCH WITH JS HTML CSS
 //review document.getElementById("")
 //review document.addEventListener("click", *func*)
-//review requestAnimationFrame e and cancelAnimationFramt
+//review requestAnimationFrame and cancelAnimationFramt
+
+
+
+//TODO LIST
+//
