@@ -238,3 +238,4 @@
 //overview: user needs to be able to type in the input and add button is enabled, button is disabled if field is empty
 //utilize "change" addEventListener
 //pass in call back function when using document.addEventListener
+//for the ADD button to work, you have to be able to click it for the item to be appended to a new list
