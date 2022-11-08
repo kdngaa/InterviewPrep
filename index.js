@@ -239,3 +239,4 @@
 //utilize "change" addEventListener
 //pass in call back function when using document.addEventListener
 //for the ADD button to work, you have to be able to click it for the item to be appended to a new list
+//declaring input.value as an empty string will result in the input disapearring after it's being added, followed by the ADD button being disabled
