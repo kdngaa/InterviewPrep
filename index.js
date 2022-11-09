@@ -244,3 +244,6 @@
 //every item that is added will go in the order of HEADING first, then followed by an X as the delete button
 //must add the CLICK event on the X button
 //since we want to delete the actual item from the list, we must use this.parentNode since the item is the parent of the X button, hence it'll delete the whole item, the keyword "this" refers to the x button
+
+
+//CRYPTO PRICES REACT MINI PROJECT WITH API
