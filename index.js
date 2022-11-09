@@ -252,3 +252,4 @@
 //create state for all the values in the API (useState)
 //hasNext property is used to see if the API page has a next page
 //whenever the page changes, the page has to make a request to the API, with the use of useEffect, passing in "page" as the dependency array, where the effect will take place when the page changes
+//use searchParams when calling the url when you want to set the page in its default state (starting from page 0)
