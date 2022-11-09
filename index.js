@@ -242,3 +242,4 @@
 //declaring input.value as an empty string will result in the input disapearring after it's being added, followed by the ADD button being disabled
 //use createElement to actually create the list properties
 //every item that is added will go in the order of HEADING first, then followed by an X as the delete button
+//must add the CLICK event on the X button
