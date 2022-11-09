@@ -250,3 +250,4 @@
 //declare a variable as a global scope with the API link you'd like to implement
 //make sure the API is in JSON, as ARRAYS of OBJECTS
 //create state for all the values in the API (useState)
+//hasNext property is used to see if the API page has a next page
