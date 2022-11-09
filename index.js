@@ -249,7 +249,7 @@
 //CRYPTO PRICES REACT MINI PROJECT WITH API
 //declare a variable as a global scope with the API link you'd like to implement
 //make sure the API is in JSON, as ARRAYS of OBJECTS
-//create state for all the values in the API (useState)
+//create state for all the values in the API (useState), which includes the coins, the page the coins are on, and if there are a next page
 //hasNext property is used to see if the API page has a next page
 //whenever the page changes, the page has to make a request to the API, with the use of useEffect, passing in "page" as the dependency array, where the effect will take place when the page changes
 //use searchParams when calling the url when you want to set the page in its default state (starting from page 0)
