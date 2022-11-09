@@ -241,3 +241,4 @@
 //for the ADD button to work, you have to be able to click it for the item to be appended to a new list
 //declaring input.value as an empty string will result in the input disapearring after it's being added, followed by the ADD button being disabled
 //use createElement to actually create the list properties
+//every item that is added will go in the order of HEADING first, then followed by an X as the delete button
