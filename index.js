@@ -247,3 +247,4 @@
 
 
 //CRYPTO PRICES REACT MINI PROJECT WITH API
+//declare a variable as a global scope with the API link you'd like to implement
