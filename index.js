@@ -253,3 +253,4 @@
 //hasNext property is used to see if the API page has a next page
 //whenever the page changes, the page has to make a request to the API, with the use of useEffect, passing in "page" as the dependency array, where the effect will take place when the page changes
 //use searchParams when calling the url when you want to set the page in its default state (starting from page 0)
+//in the fetch await function, after formatting the response is in json format, you must update the sate of coins and hasNext to whatever their value is based on the appointed API
