@@ -264,3 +264,4 @@
 //when the task is to onmount, pass in empty array as the dependencies (since the api returns all the questions)
 //whenever we mapped over an array in JSX, we always need a unique key
 //add a useState for current question index in order to create a back and next button to rotate questions
+//remember to pass in fetchData function directly inside useEffect after creating it in the useEffect
