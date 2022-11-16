@@ -261,4 +261,5 @@
 //API returns an array as JSON (with each element if the array as objects), that includes the question, multiple choices, and the correct answer
 //when dealing with API, the first step in react is to fetch all the data from that API
 //since the API returns all the questions at once, we only need a single fetch calls using mount with useEffect
+//when the task is to onmount, pass in empty array as the dependencies (since the api returns all the questions)
 //whenever we mapped over an array in JSX, we always need a unique key
