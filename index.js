@@ -259,4 +259,5 @@
 
 //CREATING A MULTIPLE CHOICE QUIZ USING REACT AND API
 //API returns an array as JSON (with each element if the array as objects), that includes the question, multiple choices, and the correct answer
-//when dealing with API, the first step in react is to fetch all the data from that API 
+//when dealing with API, the first step in react is to fetch all the data from that API
+//since the API returns all the questions at once, we only need a single fetch calls using mount with useEffect
