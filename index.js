@@ -257,4 +257,5 @@
 
 
 
-//CREATING A MULTIPLE CHOICE QUIZ USING REACT AND API 
+//CREATING A MULTIPLE CHOICE QUIZ USING REACT AND API
+//API returns an array as JSON, that includes the question, multiple choices, and the correct answer
