@@ -265,3 +265,8 @@
 //whenever we mapped over an array in JSX, we always need a unique key
 //add a useState for current question index in order to create a back and next button to rotate questions
 //remember to pass in fetchData function directly inside useEffect after creating it in the useEffect
+
+
+
+
+//LINUX RED HAT PREP COURSE
