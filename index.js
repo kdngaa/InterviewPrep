@@ -270,3 +270,5 @@
 
 
 //LINUX RED HAT PREP COURSE
+//Download Oracle Virtual Box
+//Create new Virtual Machine with OVB
