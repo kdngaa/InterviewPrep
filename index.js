@@ -273,5 +273,8 @@
 //Download Oracle Virtual Box
 //Create new Virtual Machine with OVB
 //Start the Virtual Machine, and check if the DVD (redhat img is intact, if not then download from linux redhat and attach it for it to run DVD)
+
+
+//JFROG ARTIFACTORY
 //Artifact are readily deployable files
 //JFROG Artifactory main purpose is to store artifacts (readily deployable code) and another is to act as a buffer for downloading dependencies for the build tools and languages
