@@ -272,3 +272,4 @@
 //LINUX RED HAT PREP COURSE
 //Download Oracle Virtual Box
 //Create new Virtual Machine with OVB
+//Start the Virtual Machine, and check if the DVD (redhat img is intact, if not then download from linux redhat and attach it for it to run DVD)
