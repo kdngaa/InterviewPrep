@@ -279,7 +279,7 @@
 //Linux Redhad is a form of linux distribution, Ubuntu is Linux
 
 //LINUX SYSTEM ACCESS (CommandLine and GUI)
-
+//ifconfig to find out their IP Address
 
 
 
