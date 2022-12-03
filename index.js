@@ -278,6 +278,13 @@
 //Linux distribution is an operating system composed of Linux kernels, GNU tools, additional software and package manager
 //Linux Redhad is a form of linux distribution, Ubuntu is Linux
 
+//LINUX SYSTEM ACCESS (CommandLine and GUI)
+
+
+
+
+
+
 
 
 //JFROG ARTIFACTORY
