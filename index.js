@@ -276,6 +276,9 @@
 //OPEN SOURCE code are developed in a decentralized and collaborative ways, which rely on peer review and community production
 //Linux is a free, open source system
 //Linux distribution is an operating system composed of Linux kernels, GNU tools, additional software and package manager
+//Linux Redhad is a form of linux distribution
+
+
 
 
 //JFROG ARTIFACTORY
