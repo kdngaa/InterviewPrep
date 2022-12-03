@@ -275,7 +275,7 @@
 //Start the Virtual Machine, and check if the DVD (redhat img is intact, if not then download from linux redhat and attach it for it to run DVD)
 //OPEN SOURCE code are developed in a decentralized and collaborative ways, which rely on peer review and community production
 //Linux is a free, open source system
-
+//Linux distribution is an operating system composed of Linux kernels, GNU tools, additional software and package manager
 
 
 //JFROG ARTIFACTORY
