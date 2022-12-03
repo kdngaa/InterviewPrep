@@ -281,7 +281,7 @@
 //LINUX SYSTEM ACCESS (CommandLine and GUI)
 //ifconfig to find out their IP Address
 //ip addr is to look for IP Address
-
+//enp0s3 is the name of the adapter
 
 
 
