@@ -336,8 +336,9 @@
 //Soft link= Link will be removed if file is removed or renamed
 //Hard link = Deleting renaming or moving the original file will not affect the hard link
 //ln -s /home/kduong/*insert file*   ---> create soft links for that file in that directory
+//ln /home/kduong/*insert file*  ---> create soft links for that file in that directory
+//REMEMBER TO cd /tmp in order to cream links. NOTE that HARD LINKS can only be created in the same parition
 //ls -li ----> find out the inode of that file
-
 
 
 
