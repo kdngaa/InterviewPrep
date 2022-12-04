@@ -343,8 +343,8 @@
 
 //INPUT AND OUTPUT REDIRECTS
 //3 types of redirects in LINUX (standard input , standard output, standard error)
-//stdin (has file descriptor number as 0)
-//stdout (has file descriptor number as 1)
+//stdin (has file descriptor number as 0)   --> KEYBOARD  <
+//stdout (has file descriptor number as 1)  --> SCREEN    >
 //stderr (has file descriptor number as 2)
 
 
