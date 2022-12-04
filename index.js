@@ -344,6 +344,7 @@
 //INPUT AND OUTPUT REDIRECTS
 //3 types of redirects in LINUX (standard input , standard output, standard error)
 //stdin (has file descriptor number as 0)   --> KEYBOARD  <
+//input is used to feeding file contents to a file
 //stdout (has file descriptor number as 1)  --> SCREEN    > (>> for additional output)
 //stderr (has file descriptor number as 2)
 //ls -l > listings (redirecting to the FILE you want)
