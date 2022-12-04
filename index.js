@@ -311,8 +311,14 @@
 
 
 //FILE MAINTENANCE COMMANDS
-//
-
+//cp
+//rm to remove a file
+//mv to move location of a file to a diff location OR to rename a file
+//mkdir
+//rmdir or rm -r  to remove a directory
+//chgrp  to change group level of a file
+//chown to change ownership of file
+//man is to find out which command does what
 
 
 
