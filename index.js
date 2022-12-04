@@ -290,7 +290,7 @@
 //Different files go to different places (system config files, user files, log files, commands of scripts)
 //Improvements are always made with file systems as they are given different names (ext3, ext4, xfs, NTFS, FAT, etc)
 //cd / is to change directory to the root directory and ls -l is to list file info
-
+// in Linux everything starts from /
 
 
 
