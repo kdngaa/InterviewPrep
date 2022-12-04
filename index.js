@@ -284,6 +284,10 @@
 //enp0s3 is the name of the adapter
 
 
+//MANAGE FILE SYSTEMS FROM THE COMMAND LINE
+//File system used by an operating system to manage files. The system controls how data is saved or retrieved
+
+
 
 
 
