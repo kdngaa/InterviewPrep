@@ -304,7 +304,7 @@
 //touch (creates an empty file), cp (copying an existing file and create new file with *insert name*, in that order when typing), vi (editor)
 //mkdir (creating directory)
 //you can check the file or directory you just created by ls -l, or ls -ltr (oldest to newest file modified)
-
+//touch and mkdir work the same (you can create multiple files and/or directories in one line)
 
 
 //JFROG ARTIFACTORY
