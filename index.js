@@ -284,6 +284,9 @@
 //enp0s3 is the name of the adapter
 
 
+
+
+//STRESS
 //MANAGE FILE SYSTEMS FROM THE COMMAND LINE
 //File system used by an operating system to manage files. The system controls how data is saved or retrieved
 //Think of file system like a clothing closet, where all your garments are stored in separate places
@@ -325,6 +328,13 @@
 //cat to see content inside the file
 //to copy a file to a diff location you cp *insert file* /*insert directory name*
 //su - is to change into ROOT and get ROOT's user rights
+
+
+
+//SOFT AND HARD LINKS
+//inode = Pointer or number of a file on the hard disk/ inode number is assigned to a file everytime it is created
+//Soft link= Link will be removed if file is removed or renamed
+//Hard link = Deleting renaming or moving the original file will not affect the hard link
 
 
 
