@@ -291,11 +291,12 @@
 //Improvements are always made with file systems as they are given different names (ext3, ext4, xfs, NTFS, FAT, etc)
 //cd / is to change directory to the root directory and ls -l is to list file info
 // in Linux everything starts from /
+//pwd is to check the directory you are currently in
+
 //etc is where config files go, home is where all users directory are located, opt is where the programs are running, and sbin is where commands and scripts are located, var is where your log files are located
 //DIRECTORY LISTING ATTRIBUTES
 //After ls -l, if file begins with d (directory), starts with l (link), starts with either l or d (regular file)
 //In this order, TYPE, NUMBER OF LINKS, OWNER, GROUP, SIZE, MONTH, DAY, TIME, NAME
-
 
 
 
