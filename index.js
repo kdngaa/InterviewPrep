@@ -291,7 +291,7 @@
 //Improvements are always made with file systems as they are given different names (ext3, ext4, xfs, NTFS, FAT, etc)
 //cd / is to change directory to the root directory and ls -l is to list file info
 // in Linux everything starts from /
-
+//etc is where config files go, home is where all users directory are located, opt is where the programs are running, and sbin is where commands and scripts are located, var is where your log files are located
 
 
 
