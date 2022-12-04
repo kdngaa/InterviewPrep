@@ -341,6 +341,9 @@
 //ls -li ----> find out the inode of that file
 
 
+//INPUT AND OUTPUT REDIRECTS
+
+
 
 
 
