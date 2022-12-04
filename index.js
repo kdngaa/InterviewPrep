@@ -335,6 +335,7 @@
 //inode = Pointer or number of a file on the hard disk/ inode number is assigned to a file everytime it is created
 //Soft link= Link will be removed if file is removed or renamed
 //Hard link = Deleting renaming or moving the original file will not affect the hard link
+//ln -s /home/kduong/*insert file*   ---> create soft links for that file in that directory
 
 
 
