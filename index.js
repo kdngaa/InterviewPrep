@@ -347,6 +347,10 @@
 //stdout (has file descriptor number as 1)  --> SCREEN    > (>> for additional output)
 //stderr (has file descriptor number as 2)
 //ls -l > listings (redirecting to the FILE you want)
+//when routing with ls -l  or pwd in addition to redirecting to a certain file, you wont see the output because it REDIRECTS underneath, use cat to check the content of that file
+
+
+
 
 
 //JFROG ARTIFACTORY
