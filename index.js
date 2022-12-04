@@ -314,6 +314,7 @@
 //cp
 //rm to remove a file
 //mv to move location of a file to a diff location OR to rename a file
+//mv(rename file) is mv *insert file u want change* *insert new name*
 //mkdir
 //rmdir or rm -r  to remove a directory
 //chgrp  to change group level of a file
