@@ -320,6 +320,7 @@
 //chown to change ownership of file
 //echo "INSERT STR WITH DOUBLE QUOTES" > *INSERT FILE* to add content inside that file
 //man is to find out which command does what
+//cat to see content inside the file
 //to copy a file to a diff location you cp *insert file* /*insert directory name*
 
 
