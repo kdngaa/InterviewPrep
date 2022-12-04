@@ -318,6 +318,7 @@
 //rmdir or rm -r  to remove a directory
 //chgrp  to change group level of a file
 //chown to change ownership of file
+//echo "INSERT STR WITH DOUBLE QUOTES" > *INSERT FILE* to add content inside that file
 //man is to find out which command does what
 
 
