@@ -317,7 +317,7 @@
 //mv(rename file) is mv *insert file u want change* *insert new name*
 //mv(move file) is mv *insert file* /*insert file*
 //mkdir
-//rmdir or rm -r  to remove a directory
+//rmdir or rm -r  to remove a directory  (rmdir or rm -m *insert directory*/) REMEMBER THE SLASH AT THE END
 //chgrp  to change group level of a file
 //chown to change ownership of file
 //echo "INSERT STR WITH DOUBLE QUOTES" > *INSERT FILE* to add content inside that file
