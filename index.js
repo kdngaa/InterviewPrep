@@ -324,7 +324,7 @@
 //man is to find out which command does what
 //cat to see content inside the file
 //to copy a file to a diff location you cp *insert file* /*insert directory name*
-
+//su - is to change into ROOT and get ROOT's user rights
 
 
 
