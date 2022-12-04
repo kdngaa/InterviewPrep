@@ -346,7 +346,7 @@
 //stdin (has file descriptor number as 0)   --> KEYBOARD  <
 //stdout (has file descriptor number as 1)  --> SCREEN    >
 //stderr (has file descriptor number as 2)
-
+//ls -l > listings (redirecting to the FILE you want)
 
 
 //JFROG ARTIFACTORY
