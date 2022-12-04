@@ -350,7 +350,7 @@
 //ls -l > listings (redirecting to the FILE you want)
 //when routing with ls -l  or pwd in addition to redirecting to a certain file, you wont see the output because it REDIRECTS underneath, use cat to check the content of that file
 //hiden files are file names that have a dot infront of it
-
+//if command produces an error on the screen its stderr, we can redirects to route errors from the screen
 
 
 
