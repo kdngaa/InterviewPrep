@@ -318,13 +318,17 @@
 //mv(move file) is mv *insert file* /*insert file*
 //mkdir
 //rmdir or rm -r  to remove a directory  (rmdir or rm -m *insert directory*/) REMEMBER THE SLASH AT THE END
-//chgrp  to change group level of a file
-//chown to change ownership of file
+//chgrp  to change group level of a file (chgrp root *file name*) MAKE SURE U HAVE PERMISSION, check owner
+//chown to change ownership of file (chown root *file name*) MAKE SURE U HAVE PERMISSION, check owner
 //echo "INSERT STR WITH DOUBLE QUOTES" > *INSERT FILE* to add content inside that file
 //man is to find out which command does what
 //cat to see content inside the file
 //to copy a file to a diff location you cp *insert file* /*insert directory name*
 //su - is to change into ROOT and get ROOT's user rights
+
+
+
+
 
 
 
