@@ -305,6 +305,11 @@
 //mkdir (creating directory)
 //you can check the file or directory you just created by ls -l, or ls -ltr (oldest to newest file modified)
 //touch and mkdir work the same (you can create multiple files and/or directories in one line)
+//make sure you check if you can create a file in that directory (it'll notifiy if you dont have permission, exp: root as the owner)
+
+
+
+
 
 
 //JFROG ARTIFACTORY
