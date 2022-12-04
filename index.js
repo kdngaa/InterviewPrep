@@ -287,7 +287,7 @@
 //MANAGE FILE SYSTEMS FROM THE COMMAND LINE
 //File system used by an operating system to manage files. The system controls how data is saved or retrieved
 //Think of file system like a clothing closet, where all your garments are stored in separate places
-
+//Different files go to different places (system config files, user files, log files, commands of scripts)
 
 
 
