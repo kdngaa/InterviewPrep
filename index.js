@@ -419,6 +419,11 @@
 //visudo (add or remove the rights to certain commands), after entered command, scroll and look for #wheel, this is where you can add groups to give access to certain commands
 //you must be in root user to access visudo
 //look for "Allow root to run any commands anywhere" and enter the user name underneath root and replicate the attributes above
+//usermod -aG wheel *insert user name* (to add that user into group's access)
+//after that, you have to log into that user name and run the former locked commands with sudo *insert unlocked command*
+
+
+
 
 
 
