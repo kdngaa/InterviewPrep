@@ -438,11 +438,13 @@
 //FILE OWNERSHIP
 //2 owners of file or directory (user and group)
 //Commands to change file ownership: chown (changes ownership of file), chgrp (changes group ownership of file)
+//exp: chown root lisa (change owner of the file lisa to "root")
+//always log into root when you're granting access and permission user (you can change directories even when in root user)
 
 
 
-
-
+//IMPORTANT: MONITOR AND MANAGE LINUX PROCESSES
+//PROCESSES AND JOBS
 
 
 
