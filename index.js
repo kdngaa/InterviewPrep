@@ -454,8 +454,20 @@
 
 //MONITOR AND MANAGE PROCESSES
 //When an operating system boots up many programs get loaded into system memory. These processes or programs need to be managed and monitored bc they consume mainly 3 system resources like CPU, memory and disk space
-
-
+//COMMANDS TO MANAGE SYSTEM RESOURCES
+//df --> monitors and actually gives you statistics on your file system
+//du --> how much usage of the disk is being used in each file
+//uptime --> how long the system has been up for
+//top
+//free
+//lsof
+//tcpdump
+//netstat
+//ps
+//kill
+//vmstat
+//iostat
+//iftop
 
 
 
