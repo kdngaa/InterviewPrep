@@ -402,8 +402,8 @@
 //   /etc/passwd
 //  /etc/group
 //  /etc/shadow (stricly to store passwords of users created, it shows the ENCODE passwords not real passwords)
-
-
+//grep *insert user* /etc/passwd to show specific info for specific user
+//user add -g superheroes -s /bin/bash -c "user description" -m -d /home/spiderman spiderman
 
 
 
