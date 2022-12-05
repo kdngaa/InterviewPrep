@@ -417,7 +417,7 @@
 // /etc/sudoers  (configuration logs)
 //when you are in root user, you're the most powerful user so you don't need any other permission or password
 //visudo (add or remove the rights to certain commands), after entered command, scroll and look for #wheel, this is where you can add groups to give access to certain commands
-
+//you must be in root user to access visudo
 
 
 
