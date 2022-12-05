@@ -416,8 +416,7 @@
 //sudo command (when you're not root but you still need some commands)
 //visudo (add or remove the rights to certain commands)
 // /etc/sudoers  (configuration logs)
-
-
+//when you are in root user, you're the most powerful user so you don't need any other permission or password
 
 
 
