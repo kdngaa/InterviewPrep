@@ -372,7 +372,8 @@
 //emacs - Full screen editor
 //pico - Beginner's editor
 //vim - Advanced version of vi
-
+//VI EDITOR
+//vi supplies commands for: inserting and deleting texts, replacing texts, moving around the file, finding and substituting strings, cutting and pasting texts
 
 
 
