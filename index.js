@@ -363,6 +363,16 @@
 //use SPACE BAR to browse the pages
 
 
+//LINUX FILE EDITOR
+//A text editor is a program which enables you to create and manipulate data in a Linux file
+//Standard text editors available on Linux
+//vi  - Visual Editor
+//ed - Standard Line Editor
+//ex - Extended line editor
+//emacs - Full screen editor
+
+
+
 
 
 //JFROG ARTIFACTORY
