@@ -412,7 +412,7 @@
 
 
 //SWITCH USERS AND SUDO ACCESS
-//su - (switch from one user to another)
+//su - *insert user name if not root*         (switch from one user to another)
 //sudo command (when you're not root but you still need some commands)
 //visudo (add or remove the rights to certain commands)
 // /etc/sudoers  (configuration logs)
