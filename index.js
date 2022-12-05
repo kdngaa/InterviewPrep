@@ -429,7 +429,7 @@
 //3 types of permissions: read, write, and execute (running a program)
 // each permission can be controlled on 3 levels (user, same group, others)
 //command to change permission: chmod
-
+//exp: chmod g-w jerry (to remove this group's write permission from file jerry)
 
 
 
