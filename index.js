@@ -427,7 +427,7 @@
 //FILE PERMISSIONS
 //UNIX is a multi user system. Every file and directory in ur account can be protected from or made accessible to other users by changing its access permissions
 //3 types of permissions: read, write, and execute (running a program)
-// each permission can be controlled on 3 levels (user, same group, others)
+// each permission can be controlled on 3 levels (user, same group, others) U GO I in that order
 //command to change permission: chmod
 //exp: chmod g-w jerry (to remove this group's write permission from file jerry)
 //exp: chmod a-r jerry (to remove ALL write permission from file jerry)
