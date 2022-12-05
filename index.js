@@ -401,7 +401,7 @@
 //FILES
 //   /etc/passwd
 //  /etc/group
-//  /etc/shadow
+//  /etc/shadow (stricly to store passwords of users created, it shows the ENCODE passwords not real passwords)
 
 
 
