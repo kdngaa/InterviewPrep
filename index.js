@@ -366,11 +366,12 @@
 //LINUX FILE EDITOR
 //A text editor is a program which enables you to create and manipulate data in a Linux file
 //Standard text editors available on Linux
-//vi  - Visual Editor
+//vi  - Visual Editor (CURRENTLY USING)
 //ed - Standard Line Editor
 //ex - Extended line editor
 //emacs - Full screen editor
-
+//pico - Beginner's editor
+//vim - Advanced version of vi
 
 
 
