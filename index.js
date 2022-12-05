@@ -456,6 +456,7 @@
 //When an operating system boots up many programs get loaded into system memory. These processes or programs need to be managed and monitored bc they consume mainly 3 system resources like CPU, memory and disk space
 //COMMANDS TO MANAGE SYSTEM RESOURCES
 //df -h --> monitors and actually gives you statistics on your file system
+//df -T --> gives you file system type
 //du -h / | sort -nr | more   --> how much usage of the disk is being used in each file
 //uptime --> how long the system has been up for
 //top
