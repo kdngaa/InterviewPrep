@@ -354,6 +354,16 @@
 //^ this way we dont have to see the error but instead redirect it to the error file instead
 //tellnet localhost 2> errorfile (shell scripting and automating tasks)
 
+
+
+//PIPES
+//A pipe is used by the shell to connect the output of one command directly to the input of another command.
+//The symbol of pipe is a vertical bar |
+
+
+
+
+
 //JFROG ARTIFACTORY
 //Artifact are readily deployable files
 //JFROG Artifactory main purpose is to store artifacts (readily deployable code) and another is to act as a buffer for downloading dependencies for the build tools and languages
