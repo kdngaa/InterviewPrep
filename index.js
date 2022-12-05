@@ -466,7 +466,7 @@
 //netstat (also for network, what router, traffic in n out, gateway, etcc)
 //ps - request of snapshot of the current process
 //ps -ef | more(info about a specific process)
-//kill (to kill a process) use the PID number found in top command
+//kill -9 (to kill a process) use the PID number found in top command
 //vmstat
 //iostat
 //iftop
