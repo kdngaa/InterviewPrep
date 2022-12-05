@@ -359,6 +359,7 @@
 //PIPES
 //A pipe is used by the shell to connect the output of one command directly to the input of another command.
 //The symbol of pipe is a vertical bar |
+//ls -ltr | more  --> puts the overloading file into pipes so you can view them easier (remember to be in the directory you want to view the files in)
 
 
 
