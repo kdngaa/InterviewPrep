@@ -445,7 +445,15 @@
 
 //IMPORTANT: MONITOR AND MANAGE LINUX PROCESSES
 //PROCESSES AND JOBS
+//Application/Service (JFROG)
+//Script (something that is written in a file and packaged that it will exceute like Apache)
+//Process
+//Daemon (something continously runs in the background)
+//Threads (Every process could have multiple threads)
+//Job (created by scheduler or work order)
 
+//MONITOR AND MANAGE PROCESSES
+//When an operating system boots up many programs get loaded into system memory. These processes or programs need to be managed and monitored bc they consume mainly 3 system resources like CPU, memory and disk space
 
 
 
