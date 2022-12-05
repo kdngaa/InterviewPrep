@@ -352,7 +352,7 @@
 //hiden files are file names that have a dot infront of it
 //if command produces an error on the screen its stderr, we can redirects to route errors from the screen
 //^ this way we dont have to see the error but instead redirect it to the error file instead
-
+//tellnet localhost 2> errorfile (shell scripting and automating tasks)
 
 //JFROG ARTIFACTORY
 //Artifact are readily deployable files
