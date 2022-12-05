@@ -453,3 +453,4 @@
 //JFROG ARTIFACTORY
 //Artifact are readily deployable files
 //JFROG Artifactory main purpose is to store artifacts (readily deployable code) and another is to act as a buffer for downloading dependencies for the build tools and languages
+//First step: check whoami, and pwd for directory you're in, then ls -ltr to list all the files under that user
