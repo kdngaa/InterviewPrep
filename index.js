@@ -374,7 +374,13 @@
 //vim - Advanced version of vi
 //VI EDITOR
 //vi supplies commands for: inserting and deleting texts, replacing texts, moving around the file, finding and substituting strings, cutting and pasting texts
-
+//COMMON KEYS
+//i - insert
+//Esc - EScape out of any mode
+//r - replace
+//d - delete
+//:q! - quit without saving
+//:wq! - quit and leave
 
 
 //JFROG ARTIFACTORY
