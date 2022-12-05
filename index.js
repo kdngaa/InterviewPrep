@@ -387,6 +387,31 @@
 
 
 
+//USER ACCOUNT MANAGEMENT
+//COMMANDS
+//in order to use these commands, you have to become root with su -
+//useradd *insert new username*
+//id *insert user* to verify if it's there
+//groupadd *insert group name*
+//cat /etc/group to check if group is there
+//userdel *insert user name*
+//userdel -r *insert user name* which will also delete the directory
+//groupdel
+//usermod -G *insert group* *insert name u want to add to that group*
+//FILES
+//   /etc/passwd
+//  /etc/group
+//  /etc/shadow
+
+
+
+
+
+
+
+
+
+
 
 
 //JFROG ARTIFACTORY
