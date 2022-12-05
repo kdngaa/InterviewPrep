@@ -435,7 +435,9 @@
 //to GIVE PERMISSION, instead of - (minus), use + (plus)
 
 
-
+//FILE OWNERSHIP
+//2 owners of file or directory (user and group)
+//Commands to change file ownership: chown (changes ownership of file), chgrp (changes group ownership of file)
 
 
 
