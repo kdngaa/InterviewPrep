@@ -414,9 +414,9 @@
 //SWITCH USERS AND SUDO ACCESS
 //su - *insert user name if not root*         (switch from one user to another)
 //sudo command (when you're not root but you still need some commands)
-//visudo (add or remove the rights to certain commands)
 // /etc/sudoers  (configuration logs)
 //when you are in root user, you're the most powerful user so you don't need any other permission or password
+//visudo (add or remove the rights to certain commands), after entered command, scroll and look for #wheel, this is where you can add groups to give access to certain commands
 
 
 
