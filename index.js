@@ -407,6 +407,8 @@
 //passwd *insert user name* to give them a password
 
 
+//THE /etc/login.defs FILE is EXTREMELY IMPORTANT (setting user password day and age)
+
 
 
 
