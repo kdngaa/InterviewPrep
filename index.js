@@ -376,11 +376,17 @@
 //vi supplies commands for: inserting and deleting texts, replacing texts, moving around the file, finding and substituting strings, cutting and pasting texts
 //COMMON KEYS
 //i - insert
-//Esc - EScape out of any mode
-//r - replace
-//d - delete
+//Esc - EScape out of any mode (need esp to get out of one state and move around)
+//r - replace (need to go down the character one by one, type r then change the character)
+//d - delete (removes the whole line)
 //:q! - quit without saving
-//:wq! - quit and leave
+//:wq! - quit and save
+//cat editor's name after you quit and save to view content that is saved within
+//x - remove one character
+
+
+
+
 
 
 //JFROG ARTIFACTORY
