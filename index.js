@@ -424,6 +424,27 @@
 
 
 
+//FILE PERMISSIONS
+//UNIX is a multi user system. Every file and directory in ur account can be protected from or made accessible to other users by changing its access permissions
+//3 types of permissions: read, write, and execute (running a program)
+// each permission can be controlled on 3 levels (user, same group, others)
+//command to change permission: chmod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
