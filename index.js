@@ -463,9 +463,10 @@
 //free (info about memory specifically)
 //lsof (list open files) systems that are open that are interupting the runtime
 //tcpdump (for network, which activity coming in or traffic coming out of the systems) //IMPORTANT FOR JFROG TROUBLESHOOTING
-//netstat
-//ps
-//kill
+//netstat (also for network, what router, traffic in n out, gateway, etcc)
+//ps - request of snapshot of the current process
+//ps -ef | more(info about a specific process)
+//kill (to kill a process) use the PID number found in top command
 //vmstat
 //iostat
 //iftop
