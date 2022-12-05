@@ -459,10 +459,10 @@
 //df -T --> gives you file system type
 //du -h / | sort -nr | more   --> how much usage of the disk is being used in each file
 //uptime --> how long the system has been up for
-//top
-//free
-//lsof
-//tcpdump
+//top  (shows processes that are running, make sure you learn this)
+//free (info about memory specifically)
+//lsof (list open files) systems that are open that are interupting the runtime
+//tcpdump (for network, which activity coming in or traffic coming out of the systems) //IMPORTANT FOR JFROG TROUBLESHOOTING
 //netstat
 //ps
 //kill
