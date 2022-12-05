@@ -432,7 +432,7 @@
 //exp: chmod g-w jerry (to remove this group's write permission from file jerry)
 //exp: chmod a-r jerry (to remove ALL write permission from file jerry)
 //exp: chmod u-w jerry (to remove my write permission from file jerry)
-
+//to GIVE PERMISSION, instead of - (minus), use + (plus)
 
 
 
