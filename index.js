@@ -492,16 +492,27 @@
 //systemctl stop iptables and systemctl diable iptables and systemctl mask iptables (IF U WANT TO USE FIREWALLD)
 //check if firewalld package is installed (rpm -qa | grep firewalld)
 //start firewalld (systemctl start/enable firewalld)
-//check rule of firewalld (firewall-cmd --list-all) --> check if it's using ssh or ftp and the port it allows
+//check rule of firewalld (firewall-cmd --list-all) --> check if it's using ssh or ftp services and the port it allows
 //get listings of all services firewalld is aware of (firewall-cmd --get-services)
 //to make firewalld re-read the configuration added (firewall-cmd --reload)
+//firewalld has multiple zones, to get list of all zones (firewall-cmd --get-zones), public zone is mostly used
+//get list of all active zones (firewall-cmd --get-active-zones)
+//firewall-cmd --zone=public --list-all
+//All services are pre defined by firewalld, but if you add a 3rd party service
 
+//IMPORTANT (TO ADD A SERVICE (HTTP))
+//TO ADD A SERVICE (HTTP) firewall-cmd --add-service=http  (if remove just put remove)
+//first run firewall-cmd --list-all to check what services ar running
+//then if you don't see the service is running (check status), then run it with the systemctl unmask command
+//to add it permanently without having to reload, run firewall-cmd --add-service=http --permanent (same with remove)
 
-
-
-
-
-
+//TO ADD S SERVICE THAT IS NOT PRE DEFINED IN FIREWALLD
+//STEP 1: go into /usr/lib/firewalld/services/allservices/xml
+//STEP 2: cp ssh.xml sap.xml (ssh and sap are example)  -> to copy the file
+//STEP 3: vi sap.xml (sap as example) -> to go into the file ediot and change the port or service as you wish
+//STEP 4: run system restart firewalld to see the added service when running firewall-cmd --get-services
+//STEP 5: now that you have defined the service, you have to add it with firewall-cmd --add-service=sap
+//STEP 6: run firewall-cmd --list-all to view the changes in the rules with the added service included
 
 
 
