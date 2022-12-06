@@ -473,6 +473,26 @@
 
 
 
+//MANAGING NETWORK SECURITY (FIREWALL) ---> IMPORTANT
+//Firewall: a wall that prevents the spread of fire
+//When data moves in and out of a server its packet information is tested agaisnt the firewall rules to see if it should be allowed or not
+//In simple words, a firewall is a watchman, or a bouncer that has set of rules that decide on who can enter or leave
+//2 types of firewall in IT (software that runs on an OS or hardware with a firewall software)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //JFROG ARTIFACTORY
 //Artifact are readily deployable files
