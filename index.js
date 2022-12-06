@@ -493,7 +493,8 @@
 //check if firewalld package is installed (rpm -qa | grep firewalld)
 //start firewalld (systemctl start/enable firewalld)
 //check rule of firewalld (firewall-cmd --list-all)
-
+//get listings of all services firewalld is aware of (firewall-cmd --get-services)
+//to make firewalld re-read the configuration added (firewall-cmd --reload)
 
 
 
