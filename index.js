@@ -492,7 +492,7 @@
 //systemctl stop iptables and systemctl diable iptables and systemctl mask iptables (IF U WANT TO USE FIREWALLD)
 //check if firewalld package is installed (rpm -qa | grep firewalld)
 //start firewalld (systemctl start/enable firewalld)
-//check rule of firewalld (firewall-cmd --list-all)
+//check rule of firewalld (firewall-cmd --list-all) --> check if it's using ssh or ftp and the port it allows
 //get listings of all services firewalld is aware of (firewall-cmd --get-services)
 //to make firewalld re-read the configuration added (firewall-cmd --reload)
 
