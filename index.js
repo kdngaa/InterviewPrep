@@ -478,11 +478,21 @@
 //When data moves in and out of a server its packet information is tested agaisnt the firewall rules to see if it should be allowed or not
 //In simple words, a firewall is a watchman, or a bouncer that has set of rules that decide on who can enter or leave
 //2 types of firewall in IT (software that runs on an OS or hardware with a firewall software)
+//exp of firewall: server 1 wants to connect to server 2 either with SSH (port 22) or ftp (port 21) and if firewall allows those connections then they'll be able to connect
+//Firewalld works the same way as iptables but it has its own commands
+//firewall-cmd
+//Firewalld has:
+//Table (have info about chain, rules, targets)
+//Chains (outgoing, incoming traffic info)
+//Rules  (do the outgoing or incoming traffic match these rules)
+//Targets (drop, reject, or accept target)
 
-
-
-
-
+//RUNNING FIREWALL
+//Can't run iptables or firewalld at the same time. Must turn off iptables if using firewalld
+//systemctl stop iptables and systemctl diable iptables and systemctl mask iptables (IF U WANT TO USE FIREWALLD)
+//check if firewalld package is installed (rpm -qa | grep firewalld)
+//start firewalld (systemctl start/enable firewalld)
+//check rule of firewalld (firewall-cmd --list-all)
 
 
 
