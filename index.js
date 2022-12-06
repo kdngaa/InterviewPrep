@@ -516,6 +516,38 @@
 
 
 
+
+//CONTROL SERVICES
+//systemctl --version (check if systemd installed in your system)
+//ps -ef | grep system (check if systemd is running)
+//systemctl --all (check all running services)
+//systemctl status|start|stop|restart (to check status, start, stop, or restart a service)
+//systemctl reload application.service (reload configuration of a service)
+//systemctl enable|disable *application*.service (enable or disable a service at boot time)
+//systemctl mask|unmask *application*.service (enable or disable service completely)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //JFROG ARTIFACTORY
 //Artifact are readily deployable files
 //JFROG Artifactory main purpose is to store artifacts (readily deployable code) and another is to act as a buffer for downloading dependencies for the build tools and languages
