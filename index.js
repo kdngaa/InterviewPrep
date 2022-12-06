@@ -528,10 +528,17 @@
 
 
 
+//CONFIGURE AND SECURE SSH
+//SSH: stands for secure shell (provides you w an interface to the linux system. It takes in your commands and translate them to kernel to manage hardware)
+//Open SSH is a package/software
 
 
+//ANALYZE AND STORE
+//lIKE A DOCTOR'S LOG OF YOUR HEALTH HISTORY
+//messages log (very important)
 
 
+//COMPRESSING AND UNCOMPRESS FILES
 
 
 
